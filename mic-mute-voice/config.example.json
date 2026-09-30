@@ -1,0 +1,10 @@
+{
+  "devicePrefix": "UGREEN MIC-CM770",
+  "toggleKey": "right_option",
+  "imeBundleIDs": ["com.bytedance.inputmethod.doubaoime"],
+  "meetingBundleIDs": ["com.tencent.meeting", "com.electron.lark", "5ZSL2CJU2T.com.dingtalk.mac", "com.tencent.WeWorkMac", "com.tencent.xinWeChat", "us.zoom.xos", "com.microsoft.teams2"],
+  "tapEnabled": true,
+  "zeroRunSeconds": 0.3,
+  "unmuteMinNonzero": 20,
+  "warmupSeconds": 1.0
+}
